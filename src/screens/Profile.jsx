@@ -20,7 +20,7 @@ export default function Profile() {
       <View style={styles.coverImage}>
         <Image
           style={styles.mainImage}
-          source={require("./assets/pro.jpg")}
+          source={require("../assets/pro.jpg")}
           resizeMode="contain"
         />
       </View>
